@@ -1,2 +1,2 @@
-# seleniumTesting
-Repo for Selenium and other tests
+# Selenium Tests
+exercise files and tests for Selenium
